@@ -5,6 +5,7 @@ log/*
 *.iws
 *.ipr
 .settings/
+bin/
 
 # Mac
 .DS_Store
