@@ -1,0 +1,16 @@
+# Intellij
+.idea/*
+log/*
+*.iml
+*.iws
+*.ipr
+.settings/
+
+# Mac
+.DS_Store
+
+#node
+node_modules/
+coverage/
+.vscode/launch.json
+_global.d.ts
